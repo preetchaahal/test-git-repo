@@ -1,0 +1,3 @@
+[submodule "test-git-submodule-repo"]
+	path = test-git-submodule-repo
+	url = https://github.com/preetchaahal/test-git-submodule-repo.git
